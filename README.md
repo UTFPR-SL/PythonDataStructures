@@ -24,6 +24,10 @@ $ git push origin HEAD
 ```
 4. Abra o pull request, e espere seu pull request ser avaliado
 
+# Licença
+
+Este projeto está utilizando a licença [MIT](https://choosealicense.com/licenses/mit/), o motivo dessa escolha pode ser visto [aqui](/porque_mit.MD)
+
 # Grupo 3:
 * Getúlio Coimbra Regis
 * Gustavo Sengling Favaro
