@@ -1,0 +1,2 @@
+# Por que a licença MIT?
+Escolhemos essa licença por ser mais livre, permitindo o uso privado e comercial, a modificação e a distribuição, necessitando somente os avisos de direitos autorais e uma cópia da licença.
